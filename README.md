@@ -1,2 +1,2 @@
-# List-of-Websiter
+# List-of-Websites
 Here we add useful websites to list
