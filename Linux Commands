@@ -1,1 +1,11 @@
 # Here I will explain linux commands 
+
+mkdir <name> : create a folder named name_example                                       : mkdir build
+cat <path/your_file> : directly shows a text file in the terminal.                      : cat /home/john/RESULTS.txt
+less <path/your_file> : Shows a text file in the terminal or longer files
+okular <file_name>  : Open pdf file                                                     : okular baljaa.pdf
+vi       Press i to enter the Insert mode.
+         To leave the Insert mode press ESC.
+         If you have made changes and want to save the file, press :x
+         If you haven't made any changes, press :q
+         If you have made changes, but want to leave the file without saving the changes, press :q!
