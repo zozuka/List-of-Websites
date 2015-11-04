@@ -3,8 +3,9 @@ Here we add useful websites to list.
 
 1. [GitHub](https://github.com/)
    * [GitHub Desktop] (https://desktop.github.com/)
-   * 
-   * Add
+   * [Learn git-it] (https://github.com/jlord/git-it)
+   * [Web page] (https://pages.github.com/)
+   * [Git cheat sheet] (https://education.github.com/git-cheat-sheet-education.pdf)
 2. **MarkDown**
    * [Markdown-here] (http://markdown-here.com/)
    * [MarkDown by Github] (https://guides.github.com/features/mastering-markdown/)
