@@ -6,7 +6,6 @@
    * cat <path/your_file> 
    * less <path/your_file>
    * vi  Press i to enter the Insert mode.
-   
          To leave the Insert mode press ESC.
          If you have made changes and want to save the file, press :x
          If you haven't made any changes, press :q
