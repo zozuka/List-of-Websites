@@ -1,3 +1,0 @@
-# Text file
-Baljaa updated
-
