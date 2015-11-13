@@ -1,7 +1,7 @@
 # List-of-Websites
 Here we add useful websites to list.
 
-1. [GitHub](https://github.com/)
+1. [**GitHub**](https://github.com/)
    * [GitHub Desktop] (https://desktop.github.com/)
    * [Learn git-it] (https://github.com/jlord/git-it)
    * [Web page] (https://pages.github.com/)
@@ -16,6 +16,6 @@ Here we add useful websites to list.
    * [Acedemia Stack Exchange] (http://academia.stackexchange.com/)
    * [Tex Stack Exchange] (http://tex.stackexchange.com/)
    * [ShareLatex] (https://www.sharelatex.com/)
-4. Usefull App
+4. **Usefull App**
    * [Thunderbird] (https://www.mozilla.org/en-US/thunderbird/)
 
