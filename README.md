@@ -17,7 +17,7 @@ Here we add useful websites to list.
    * [Tex Stack Exchange] (http://tex.stackexchange.com/)
    * [ShareLatex] (https://www.sharelatex.com/)
    * [TeXample] (http://www.texample.net/)
-        http://www.texample.net/tikz/examples/feature/trees/
+        * http://www.texample.net/tikz/examples/feature/trees/
 4. **Usefull App**
    * [Thunderbird] (https://www.mozilla.org/en-US/thunderbird/)
 
