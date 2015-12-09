@@ -13,3 +13,4 @@
          If you have made changes, but want to leave the file without saving the changes, press :q!
 4. Open pdf file
    * okular <file_name> 
+5. echo "Earth's Moon" >> locations.txt
